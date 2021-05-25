@@ -11,7 +11,7 @@
 .EXAMPLE
     .\NLA_Tester.ps1 -target <ip>
     .\NLA_Tester.ps1 -target <host>
-    .\NLA_tester.ps1 -target 69.211.135.247
+    .\NLA_tester.ps1 -target 69.221.110.100
 
 .LINK
     https://www.darkoperator.com/blog/2012/3/17/configuring-network-level-authentication-for-rdp.html
