@@ -1,5 +1,5 @@
 # nla_tester
-A simple tool to demonstrate the need for NLA (network level authentication), and to test RDP connections for NLA missconfigs. 
+A simple tool to demonstrate the need for NLA (network level authentication), and test RDP connections for NLA missconfigs. 
 
 ![alt text](https://github.com/ArronJablonowski/nla_tester/blob/main/NLA_smaller.png?raw=true)
 
