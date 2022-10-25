@@ -8,6 +8,6 @@ A system with proper NLA configuration will present an error message when attemp
 
 Usage
 =====
-* .\NLA_Tester.ps1 -target `<ip>`
-* .\NLA_Tester.ps1 -target `<host>`
-* .\NLA_tester.ps1 -target 192.168.1.100
+.\NLA_Tester.ps1 -target `<ip>`
+.\NLA_Tester.ps1 -target `<host>`
+.\NLA_tester.ps1 -target 192.168.1.100
