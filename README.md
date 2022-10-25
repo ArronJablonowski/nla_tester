@@ -7,4 +7,4 @@ Usage
 =====
 * .\NLA_Tester.ps1 -target `<ip>`
 * .\NLA_Tester.ps1 -target `<host>`
-* .\NLA_tester.ps1 -target 69.221.110.100
+* .\NLA_tester.ps1 -target 192.168.1.100
