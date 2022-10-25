@@ -12,7 +12,7 @@ Usage
 .\NLA_Tester.ps1 -target <ip>
 ```
 ```Bash
-.\NLA_Tester.ps1 -target `<host>`
+.\NLA_Tester.ps1 -target <host>
 ```
 ```Bash
 .\NLA_tester.ps1 -target 192.168.1.100
