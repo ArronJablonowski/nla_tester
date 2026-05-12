@@ -1,6 +1,6 @@
 # nla_tester
 
-nla_tester is a simple utility designed to demonstrate the critical role of Network Level Authentication (NLA) in Remote Desktop Protocol (RDP) security. By enabling NLA, you enhance the security of your RDP connections by preventing unauthorized access to your login screen and user credentials.
+nla_tester is a simple utility designed to demonstrate the critical role of Network Level Authentication (NLA) in Remote Desktop Protocol (RDP) security. By enabling NLA, you enhance the security of your RDP connections by preventing unauthorized access to your login screen and potentially system username discovery.
 
 ## Overview
 
