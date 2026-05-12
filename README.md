@@ -32,7 +32,7 @@ To use nla_tester, follow these steps:
 ## Example Output
 
 - **Successful NLA Configuration**:
-  If your system has proper NLA configuration, you will receive an error message indicating that the RDP connection failed due to authentication issues. *(Which is what you want to see.)*
+  If your system has proper NLA configuration, you will receive an error message indicating that the RDP connection failed due to authentication issues. *Which is what you want to see.*
 
 - **NLA Misconfiguration**:
   If NLA is disabled, nla_tester will present a login screen, potentially showing usernames visible on the lockscreen, demonstrating the potential security risk of valid account enumeration. 
